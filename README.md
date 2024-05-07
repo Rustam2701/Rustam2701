@@ -3,7 +3,8 @@
 <h3 align="center">Junior QAA Engineer</h3>
 <h4 align="left">Here you can see some of my projects.</h4>  
 
-## Stack:  
+## Stack:
+
 <p  align="left">
 <code><img width="5%" title="python" src="images/python.png"></code>
 <code><img width="5%" title="pytest" src="images/pytest.png"></code>
@@ -15,8 +16,9 @@
 <code><img width="5%" title="jenkins" src="images/jenkins.png"></code>
 <code><img width="5%" title="alluretestops" src="images/allure_testops.png"></code>
 
-## Languages  
+## Languages
+
 <p align="left">
-<img src="assets/python.png" height="60" wight="60" />  
+<img src="images/python.png" height="60" wight="60" />  
 
 
