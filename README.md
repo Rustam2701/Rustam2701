@@ -5,7 +5,7 @@
 
 ## Stack:  
 <p  align="left">
-<code><img width="5%" title="python" src="/Users/bella/projects/Rustam27011/assets/python.png"></code>
+<code><img width="5%" title="python" src="assets/python.png"></code>
 <code><img width="5%" title="pytest" src="https://github.com/MDN78/MDN78/blob/main/assets/pytest.png"></code>
 <code><img width="5%" title="selene" src="https://github.com/MDN78/MDN78/blob/main/assets/selene.png"></code>
 <code><img width="5%" title="selenium" src="https://github.com/MDN78/MDN78/blob/main/assets/selenium.png"></code>
