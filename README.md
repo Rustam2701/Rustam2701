@@ -9,17 +9,11 @@
 <code><img width="5%" title="pytest" src="https://github.com/MDN78/MDN78/blob/main/assets/pytest.png"></code>
 <code><img width="5%" title="selene" src="https://github.com/MDN78/MDN78/blob/main/assets/selene.png"></code>
 <code><img width="5%" title="selenium" src="https://github.com/MDN78/MDN78/blob/main/assets/selenium.png"></code>
-<code><img width="5%" title="requests" src="https://github.com/MDN78/MDN78/blob/main/assets/requests.png"></code>
 <code><img width="5%" title="allure" src="https://github.com/MDN78/MDN78/blob/main/assets/allure_report.png"></code>
 <code><img width="5%" title="alluretestops" src="https://github.com/MDN78/MDN78/blob/main/assets/allure_testops.png"></code>
-
-
-## Tools and skills
-![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=appveyor) ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira) ![Sitechco](https://img.shields.io/badge/Sitechco-000000?style=for-the-badge&logo=appveyor) ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro) ![Checkvist](https://img.shields.io/badge/Checkvist-000000?style=for-the-badge&logo=appveyor) ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman) ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql) ![Mockoon](https://img.shields.io/badge/Mockoon-000000?style=for-the-badge&logo=appveyor) ![JMeter](https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apachejmeter) ![SoapUI](https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=appveyor) ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=appveyor) ![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sqlite&logoColor=appveyor) ![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium) ![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor) ![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
 
 ## Languages  
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" wight="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="60" wight="60" />
 
 
