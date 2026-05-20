@@ -11,6 +11,7 @@
 <code><img width="5%" title="selene" src="images/selene.png"></code>
 <code><img width="5%" title="selenium" src="images/selenium.png"></code>
 <code><img width="5%" title="allure" src="images/allure_report.png"></code>
+<code><img width="5%" title="playwright" src="images/playwright.png"></code>
 <code><img width="5%" title="jira" src="images/jira.png"></code>
 <code><img width="5%" title="selenoid" src="images/selenoid.png"></code>
 <code><img width="5%" title="jenkins" src="images/jenkins.png"></code>
